@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL -->
+<!-- MAIN BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Initializing%20Developer%20Profile...&descAlignY=55&descSize=18&descColor=7dfcff" width="100%"/>
 
 <!-- TYPING ANIMATION -->
@@ -18,25 +18,25 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `[ 01 ]` SOBRE_MIM.exe
+## `[ 01 ]` ABOUT_ME.exe
 
 ```yaml
 identity:
   name: "Luís Martins"
-  function: "Computer engineering student"
+  function: "Computer Engineering Student"
   location: "Portugal"
-  current_focus: "To complete a degree in computer engineering.e"
-  languages: ["Português", "Inglês"]
+  current_focus: "Finishing a degree in Computer Engineering"
+  languages: ["Portuguese", "English"]
 
 interests:
-  - Artificial intelligence
+  - Artificial Intelligence
   - Cybersecurity
-  - Database
-  - Full stack
+  - Databases
+  - Full Stack Development
 
 philosophy: >
   "Clean code is the difference between a system
-    that survives and one that collapses."
+   that survives and one that collapses."
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -59,13 +59,14 @@ philosophy: >
 
 ### 🛠️ Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,jira&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&theme=dark" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `[ 03 ]` PROJETOS_EM_DESTAQUE.db
+## `[ 03 ]` FEATURED_PROJECTS.db
 
 <div align="center">
 
@@ -73,12 +74,12 @@ philosophy: >
 <tr>
 <td width="50%">
 
-### 🛰️ Nome do Projeto 1
+### 🛰️ Project Name 1
 
 ```diff
-+ Status: Em produção
++ Status: In production
 ```
-Descrição curta e direta sobre o que o projeto faz e que problema resolve.
+Short, direct description of what the project does and what problem it solves.
 
 `React` `Node.js` `PostgreSQL`
 
@@ -88,12 +89,12 @@ Descrição curta e direta sobre o que o projeto faz e que problema resolve.
 </td>
 <td width="50%">
 
-### 🤖 Nome do Projeto 2
+### 🤖 Project Name 2
 
 ```diff
-+ Status: Ativo
++ Status: Active
 ```
-Descrição curta e direta sobre o que o projeto faz e que problema resolve.
+Short, direct description of what the project does and what problem it solves.
 
 `Python` `FastAPI` `Docker`
 
@@ -105,12 +106,12 @@ Descrição curta e direta sobre o que o projeto faz e que problema resolve.
 <tr>
 <td width="50%">
 
-### 🌐 Nome do Projeto 3
+### 🌐 Project Name 3
 
 ```diff
-+ Status: Manutenção
++ Status: Maintenance
 ```
-Descrição curta e direta sobre o que o projeto faz e que problema resolve.
+Short, direct description of what the project does and what problem it solves.
 
 `Next.js` `TypeScript` `Tailwind`
 
@@ -120,12 +121,12 @@ Descrição curta e direta sobre o que o projeto faz e que problema resolve.
 </td>
 <td width="50%">
 
-### 🔐 Nome do Projeto 4
+### 🔐 Project Name 4
 
 ```diff
 + Status: Beta
 ```
-Descrição curta e direta sobre o que o projeto faz e que problema resolve.
+Short, direct description of what the project does and what problem it solves.
 
 `Go` `Redis` `AWS`
 
@@ -140,17 +141,13 @@ Descrição curta e direta sobre o que o projeto faz e que problema resolve.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `[ 04 ]` OBJETIVOS_ATUAIS.log
+## `[ 04 ]` CURRENT_GOALS.log
 
 ```bash
-user@dev-terminal:~$ cat objetivos_2026.txt
+user@dev-terminal:~$ cat goals_2026.txt
 
-[✔] Dominar arquiteturas distribuídas
-[✔] Contribuir para projetos open-source
-[ ] Aprofundar conhecimento em Machine Learning
-[ ] Publicar biblioteca própria em produção
-[ ] Certificação Cloud (AWS / GCP)
-[ ] Mentorar novos developers
+[ ] Finish my degree in Computer Engineering
+[ ] Grow and improve as a software engineer
 
 user@dev-terminal:~$ _
 ```
@@ -187,8 +184,8 @@ user@dev-terminal:~$ _
 <div align="center">
 
 <!--
-  Requer GitHub Action "platane/snk" configurada no repositório Luis-MartinsXD/Luis-MartinsXD
-  para gerar automaticamente github-contribution-grid-snake.svg
+  Requires the "platane/snk" GitHub Action configured in the Luis-MartinsXD/Luis-MartinsXD repo
+  to auto-generate github-contribution-grid-snake.svg
 -->
 <img src="https://raw.githubusercontent.com/Luis-MartinsXD/Luis-MartinsXD/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -206,7 +203,7 @@ user@dev-terminal:~$ _
 <a href="https://twitter.com/Luis-MartinsXD" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-7dfcff?style=for-the-badge&logo=twitter&logoColor=black" />
 </a>
-<a href="mailto:seuemail@dominio.com" target="_blank">
+<a href="mailto:youremail@domain.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 <a href="https://instagram.com/Luis-MartinsXD" target="_blank">
@@ -225,14 +222,14 @@ user@dev-terminal:~$ _
 ### `[ SYSTEM_LOG ]`
 
 ```
-> Conexão estabelecida com sucesso.
-> Obrigado pela visita, unidade humana.
-> Este perfil é atualizado em tempo real.
-> Fim de transmissão. 🛰️
+> Connection established successfully.
+> Thanks for stopping by, human unit.
+> This profile updates in real time.
+> End of transmission. 🛰️
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
-**⭐ Se gostaste do que viste, considera deixar uma estrela nos meus repositórios ⭐**
+**⭐ If you liked what you saw, consider starring my repositories ⭐**
 
 </div>
