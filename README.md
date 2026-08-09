@@ -197,20 +197,17 @@ user@dev-terminal:~$ _
 
 <div align="center">
 
-<a href="https://linkedin.com/in/Luis-MartinsXD" target="_blank">
+<a href="https://www.linkedin.com/in/luís-martins-b10a0a2a9/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
-<a href="https://twitter.com/Luis-MartinsXD" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-7dfcff?style=for-the-badge&logo=twitter&logoColor=black" />
+<a href="https://x.com/V1rus44" target="_blank">
+  <img src="https://img.shields.io/badge/X-7dfcff?style=for-the-badge&logo=x&logoColor=black" />
 </a>
-<a href="mailto:youremail@domain.com" target="_blank">
+<a href="mailto:luis.j.bern.martins@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-<a href="https://instagram.com/Luis-MartinsXD" target="_blank">
+<a href="https://www.instagram.com/_luis.martins_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-7dfcff?style=for-the-badge&logo=instagram&logoColor=black" />
-</a>
-<a href="https://discord.com/users/Luis-MartinsXD" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-00fff2?style=for-the-badge&logo=discord&logoColor=black" />
 </a>
 
 </div>
