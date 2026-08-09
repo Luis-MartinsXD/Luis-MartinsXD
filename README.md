@@ -72,66 +72,18 @@ philosophy: >
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-### 🛰️ Project Name 1
-
-```diff
-+ Status: In production
-```
-Short, direct description of what the project does and what problem it solves.
-
-`React` `Node.js` `PostgreSQL`
-
-<a href="#"><img src="https://img.shields.io/badge/DEMO-00fff2?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CODE-7dfcff?style=for-the-badge&logo=github&logoColor=black"/></a>
-
-</td>
-<td width="50%">
-
-### 🤖 Project Name 2
+### 🏥 Kardex Eletrónico de Enfermagem
 
 ```diff
-+ Status: Active
++ Status: Academic project (Software Engineering course)
 ```
-Short, direct description of what the project does and what problem it solves.
+Digital tool to replace paper-based nursing records in clinical settings. Centralizes patient information, care plans, medication, and exams, giving nurses a quick and accurate overview of each patient's clinical profile, updated every shift. Built as a group project using Scrum, with rotating Scrum Master roles across 5 sprints.
 
-`Python` `FastAPI` `Docker`
+`Java` `Gradle`
 
-<a href="#"><img src="https://img.shields.io/badge/DEMO-00fff2?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CODE-7dfcff?style=for-the-badge&logo=github&logoColor=black"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Project Name 3
-
-```diff
-+ Status: Maintenance
-```
-Short, direct description of what the project does and what problem it solves.
-
-`Next.js` `TypeScript` `Tailwind`
-
-<a href="#"><img src="https://img.shields.io/badge/DEMO-00fff2?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CODE-7dfcff?style=for-the-badge&logo=github&logoColor=black"/></a>
-
-</td>
-<td width="50%">
-
-### 🔐 Project Name 4
-
-```diff
-+ Status: Beta
-```
-Short, direct description of what the project does and what problem it solves.
-
-`Go` `Redis` `AWS`
-
-<a href="#"><img src="https://img.shields.io/badge/DEMO-00fff2?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CODE-7dfcff?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://github.com/AndreSantos4/Kardex-eletr-nico-enfermagem"><img src="https://img.shields.io/badge/CODE-7dfcff?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </td>
 </tr>
