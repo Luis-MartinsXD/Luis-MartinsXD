@@ -59,8 +59,8 @@ philosophy: >
 
 ### 🛠️ Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&theme=dark" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&theme=dark" height="48" style="vertical-align:middle" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" style="vertical-align:middle" />
 
 </div>
 
