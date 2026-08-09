@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=SCANS%20DETECTED&color=00fff2&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Luis-MartinsXD&label=SCANS%20DETECTED&color=00fff2&style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0f0c29)
 ![License](https://img.shields.io/badge/LICENSE-MIT-7dfcff?style=for-the-badge&labelColor=0f0c29)
 
@@ -161,12 +161,12 @@ user@dev-terminal:~$ _
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=7dfcff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Luis-MartinsXD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=7dfcff&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-MartinsXD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00fff2&ring=7dfcff&fire=00fff2&currStreakLabel=00fff2" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Luis-MartinsXD&theme=tokyonight&hide_border=true&background=0d1117&stroke=00fff2&ring=7dfcff&fire=00fff2&currStreakLabel=00fff2" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=7dfcff&point=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-MartinsXD&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=7dfcff&point=ffffff" />
 
 </div>
 
@@ -176,7 +176,7 @@ user@dev-terminal:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Luis-MartinsXD&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -187,10 +187,10 @@ user@dev-terminal:~$ _
 <div align="center">
 
 <!--
-  Requer GitHub Action "platane/snk" configurada no repositório SEU-USUARIO/SEU-USUARIO
+  Requer GitHub Action "platane/snk" configurada no repositório Luis-MartinsXD/Luis-MartinsXD
   para gerar automaticamente github-contribution-grid-snake.svg
 -->
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Luis-MartinsXD/Luis-MartinsXD/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -200,19 +200,19 @@ user@dev-terminal:~$ _
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+<a href="https://linkedin.com/in/Luis-MartinsXD" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
-<a href="https://twitter.com/SEU-USUARIO" target="_blank">
+<a href="https://twitter.com/Luis-MartinsXD" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-7dfcff?style=for-the-badge&logo=twitter&logoColor=black" />
 </a>
 <a href="mailto:seuemail@dominio.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-<a href="https://instagram.com/SEU-USUARIO" target="_blank">
+<a href="https://instagram.com/Luis-MartinsXD" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-7dfcff?style=for-the-badge&logo=instagram&logoColor=black" />
 </a>
-<a href="https://discord.com/users/SEU-USUARIO" target="_blank">
+<a href="https://discord.com/users/Luis-MartinsXD" target="_blank">
   <img src="https://img.shields.io/badge/Discord-00fff2?style=for-the-badge&logo=discord&logoColor=black" />
 </a>
 
