@@ -20,8 +20,6 @@
 
 ## `[ 01 ]` SOBRE_MIM.exe
 
-<img align="right" width="320" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AI.svg" />
-
 ```yaml
 identity:
   name: "Luís Martins"
