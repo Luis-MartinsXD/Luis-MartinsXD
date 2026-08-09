@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Booting+neural+interface...;%3E+Access+granted%2C+welcome+back.;%3E+Full-Stack+Developer+%7C;%3E+Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Booting+neural+interface...;%3E+Access+granted%2C+welcome+back.;%3E+Full-Stack+Developer;%3E+Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,25 +49,23 @@ Here are some ideas to get you started:
 
 ## `[ 01 ]` SOBRE_MIM.exe
 
-<img align="right" width="320" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AI.svg" alt="AI"/>
-
 ```yaml
-identidade:
-  nome: "Seu Nome"
-  funcao: "Full-Stack Developer / Engenheiro de Software"
-  localizacao: "PT / Remoto"
-  foco_atual: "Sistemas inteligentes & interfaces de alta performance"
-  idiomas: ["Português", "Inglês"]
+identity:
+  name: "Luís Martins"
+  function: "Computer engineering student"
+  location: "Portugal"
+  current_focus: "To complete a degree in computer engineering.e"
+  languages: ["Português", "Inglês"]
 
-interesses:
-  - Inteligência Artificial
-  - Arquitetura de Software
-  - Automação & DevOps
-  - Interfaces Cyberpunk / Sci-Fi UI
+interests:
+  - Artificial intelligence
+  - Cybersecurity
+  - Database
+  - Full stack
 
-filosofia: >
-  "Código limpo é a diferença entre um sistema
-   que sobrevive e um que colapsa."
+philosophy: >
+  "Clean code is the difference between a system
+    that survives and one that collapses."
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
